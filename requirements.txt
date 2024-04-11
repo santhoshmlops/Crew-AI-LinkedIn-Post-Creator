@@ -3,3 +3,4 @@ langchain
 crewai
 langchain-core 
 streamlit
+duckduckgo-search
